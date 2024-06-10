@@ -1,1 +1,0 @@
-# Bilgisayar-kontrol-proje-raporu.
